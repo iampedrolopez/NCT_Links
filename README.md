@@ -28,3 +28,9 @@ Collection of links shared at our NCT class
 * [Multilingual Children](https://raisingchildren.net.au/babies/connecting-communicating/bilingualism-multilingualism/raising-bilingual-children-tips)
 
 * [Relationships after having children](https://www.nct.org.uk/life-parent/your-relationship-couple/relationship-changes/changes-your-relationships-after-having-baby)
+
+
+## Author
+
+* **Pedro A. Lopez F.** - *Initial work* - 
+* **21/09/06**
