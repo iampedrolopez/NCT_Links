@@ -1,4 +1,4 @@
-# NCT_Links
+# BABY 101
 Collection of links shared at our NCT class
 
 ## Links
